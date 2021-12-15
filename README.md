@@ -22,7 +22,11 @@
   <a href="https://app.netlify.com/teams/clauds-macedo/sites" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" target="_blank" width = "40" height = "30"></a>
 </div>
  
+ ##
+ 
  <div>
+  <p>Quantidade de visitantes:</p>
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+  <p>Obrigado e volte sempre!</p>
  </div>
 
