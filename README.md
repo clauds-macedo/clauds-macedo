@@ -26,7 +26,7 @@
  
  <div style="display: flex; justify-content: center;">
   <p align="center">Quantidade de visitantes:</p>
-  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/clauds-macedo/count.svg" /></p>
   <p align="center">Obrigado e volte sempre!</p>
  </div>
 
