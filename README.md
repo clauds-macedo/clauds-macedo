@@ -1,10 +1,10 @@
 ## Claudemir Macêdo
 
-### ☕ Hi! I'm a
-- Front-end developer, focused on React.JS and React Native;
-- Computer Science student at Federal University of Alagoas;
+### 👋 Hi! I'm a
+- 💻 Front-end developer, focused on React.JS and React Native;
+- 🏫 Computer Science student at Federal University of Alagoas;
 
-### 📨 Contact-me
+### 📧 Contact-me
 - E-mail: claudemir.macedo4@gmail.com 
 <div> 
   <a href="https://github.com/clauds-macedo">
