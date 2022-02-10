@@ -1,7 +1,7 @@
 ## Claudemir Macêdo
 
 ### ☕ Hi! I'm a
-- Front-end developer, focused on React.js, React Native and Node.JS;
+- Front-end developer, focused on React.JS and React Native;
 - Computer Science student at Federal University of Alagoas;
 
 ### 📨 Contact-me
