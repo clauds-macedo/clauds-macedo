@@ -1,7 +1,7 @@
 ## Claudemir Macêdo
 
 ### 👋 Hi! I'm a
-- 💻 Front-end developer, focused on React.JS and React Native;
+- 💻 Mobile developer, focused on React Native;
 - 🏫 Computer Science student at Federal University of Alagoas;
 
 ### 📧 Contact-me
@@ -30,10 +30,10 @@
 </div>
  
  ##
- 
+<!--  
  <div style="display: flex; justify-content: center;">
   <p align="center">Quantidade de visitantes:</p>
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/clauds-macedo/count.svg" /></p>
-  <p align="center">Obrigado e volte sempre!</p>
+  <p align="center">Obrigado e volte sempre!</p> -->
  </div>
 
