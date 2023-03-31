@@ -1,7 +1,7 @@
 ## Claudemir Macêdo
 
 ### 👋 Hi! I'm a
-- 💻 Mobile developer, focused on React Native;
+- 💻 Mobile developer, at Hand Talk;
 - 🏫 Computer Science student at Federal University of Alagoas;
 
 ### 📧 Contact-me
